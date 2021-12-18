@@ -1,6 +1,6 @@
 Hi friend! 
 
-I'm Monokeke a lazy game developper working on too much projects at the same time :) (-I know, I know, you guys told me so many time to focus on specific projects but I have so many ideas to do!)
+I'm Monokeke a lazy game developer working on too many projects at the same time :) (-I know, I know, you guys told me so many times to focus on specific projects but I have so many ideas to do!)
 
 I'm also the founder of Begamous, a project that I personally care about as a way to give it back to the open source community for all ressources that people are sharing on the web for free!
 
